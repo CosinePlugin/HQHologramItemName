@@ -1,0 +1,6 @@
+# 기능 활성화
+enabled: true
+
+# %item% = 아이템 이름
+# %amount% = 아이템 개수
+hologram-format: "&f%item% &7(x%amount%)"
